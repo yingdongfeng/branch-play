@@ -1,2 +1,6 @@
 # branch-play
+<<<<<<< HEAD
 I love to write the letter A
+=======
+I love this beautiful file
+>>>>>>> feature-b
